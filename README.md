@@ -5,8 +5,10 @@
   
 -------
 
+[![ktde24's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktde24&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/ktde24/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktde24&layout=compact)
-[![ktde24's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktde24&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/ktde24/github-readme-stats)
+
 
 <br>
 

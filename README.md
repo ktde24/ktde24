@@ -6,7 +6,6 @@
 -------
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktde24&layout=compact)
-
 [![ktde24's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktde24&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/ktde24/github-readme-stats)
 
 <br>
@@ -42,4 +41,13 @@
         <img src ="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
         <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+    </div>
+
+## 📚 Studying 📚
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <div>
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     </div>

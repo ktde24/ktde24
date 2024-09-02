@@ -21,6 +21,17 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ktde24)](https://github.com/ktde24/velog-readme-stats)
 </div><br>
 
+## 💡 Experience 💡
+💻 Computer Science & Statistics at Ewha W. Univ
+<br>
+📲 EURON(AI/ML/DL Club EWHA) 활동 및 운영진
+<br>
+⌨️ ECC(Computer Club EWHA)
+<br>
+✨ UNIS(Start-up Club EWHA)
+<br>
+🏢 SKT FLY AI Challenger(AI 개발자 부트캠프) 4기
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:kjjgbjbe24@gmail.com">
@@ -43,14 +54,16 @@
         <img src ="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
         <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
     </div>
 
 ## 📚 Studying 📚
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
-        <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    </div>
+        
+  </div>
+</div>
